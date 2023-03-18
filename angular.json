@@ -165,7 +165,7 @@
           "defaultConfiguration": "development"
         },
         "prerender": {
-          "builder": "@nguniversal/builders:prerender",
+          "builder": "@nguniversal/builders:render",
           "options": {
             "routes": [
               "/"
